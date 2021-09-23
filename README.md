@@ -1,6 +1,6 @@
-![plot](./RDDoS_screenshot.png)
-
 # Red DDoS Tool ![](https://img.shields.io/apm/l/vim-mode)
+
+![plot](./RDDoS_screenshot.png)
 
 ## What is RedDDoS Tool?
  RedDDoS Tool is a tool for penetration. You can test networks/servers/any other devices with it.
