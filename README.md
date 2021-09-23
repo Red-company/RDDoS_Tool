@@ -3,7 +3,7 @@
 ![plot](./RDDoS_screenshot.png)
 
 ## What is RedDDoS Tool?
- RedDDoS Tool is a tool for penetration. You can test networks/servers/any other devices with it.
+ RedDDoS Tool is an open source tool for penetration. You can test networks/servers/any other devices with it.
 
 ## How it Works? 
  It sends continuous packets to the target. This attack is known as DDoS attack.
