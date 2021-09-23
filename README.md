@@ -1,3 +1,5 @@
+![plot](./RDDoS_screenshot.png)
+
 # Red DDoS Tool ![](https://img.shields.io/apm/l/vim-mode)
 
 ## What is RedDDoS Tool?
