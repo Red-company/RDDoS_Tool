@@ -14,7 +14,7 @@
 ## Supported Devices:
  This program is supported in all operating system like Linux, Windows and MacOs. The Code is written in python3, so Dont worry it works well without any bugs.
 
-## Installing (linux/termux/Mac os):
+## Installing (Windows/Linux/MacOs/Termux):
 ```
 apt-get update -y
 apt-get install git
@@ -22,20 +22,18 @@ git clone https://github.com/Red-company/RDDoS_Tool.git
 cd RDDoS_Tool
 bash setup.sh
 python3 RDDoS_Tool.py
-
-```
-
-## Installing (Windows):
-Install the python on your Windows machine and then follow the next setps:
-```
-pip install tqdm
-pip install pyfiglet
-python RDDoS_Tool.py
 ```
 
 ## One line Installation:
 ```
 apt-get update -y && apt-get install git && git clone https://github.com/Red-company/RDDoS_Tool.git && cd RDDoS_Tool && bash setup.sh && python3 RDDoS_Tool.py
+```
+
+## Errors? Troubleshooting is here:
+If it's about libraries, just write these strings:
+```
+pip install tqdm
+pip install pyfiglet
 ```
 
 ## Screenshots? Here they are:
