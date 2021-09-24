@@ -1,4 +1,4 @@
-# Red DDoS Tool ![](https://img.shields.io/apm/l/vim-mode)
+# Red DDoS Tool ![](https://img.shields.io/apm/l/vim-mode) ![](https://img.shields.io/github/last-commit/Red-company/RDDoS_Tool) ![](https://img.shields.io/github/release-date/Red-company/RDDoS_Tool)
 
 ![plot](./Screenshots/RDDoS_main.png)
 
