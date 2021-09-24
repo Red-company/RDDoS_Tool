@@ -8,7 +8,7 @@
 ## How it Works? 
  It sends continuous packets to the target. This attack is known as DDoS attack.
 
-## What is DDos Attack?
+## What is DDoS Attack?
   <p>In a Distributed Denial-of-Service attack (DDoS attack), the incoming traffic flooding the victim originates. This effectively makes it impossible to connect to an other device.</p>
 
 ## Supported Devices:
