@@ -1,6 +1,6 @@
 # Red DDoS Tool ![](https://img.shields.io/apm/l/vim-mode)
 
-![plot](./RDDoS_screenshot.png)
+![plot](./Screenshots/RDDoS_main.png)
 
 ## What is RedDDoS Tool?
  RedDDoS Tool is a tool for penetration. You can test networks/servers/any other devices with it.
@@ -37,6 +37,16 @@ python RDDoS_Tool.py
 ```
 apt-get update -y && apt-get install git && git clone https://github.com/Red-company/RDDoS_Tool.git && cd RDDoS_Tool && bash setup.sh && python3 RDDoS_Tool.py
 ```
+
+## Screenshots? Here they are:
+
+![plot](./Screenshots/RDDoS_about.png)
+
+![plot](./Screenshots/RDDoS_ip.png)
+
+![plot](./Screenshots/RDDoS_preparing.png)
+
+![plot](./Screenshots/RDDoS_process.png)
 
 ##
 All material in this repository is in the public domain.
