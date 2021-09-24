@@ -55,7 +55,7 @@ while True:
         print("                  \033[101m   \033[0m  \033[101m   \033[0m \033[101m   \033[0m      \033[101m   \033[0m  \033[101m   \033[0m\033[0m             \033[92m.-'     '-.\033[0m")
         print("\033[101m                \033[0m  \033[101m       \033[0m  \033[101m      \033[0m   \033[101m   \033[0m  \033[101m   \033[0m           \033[92m.'\033[91m____\033[0m secure\033[92m'.\033[0m")
         print("                  \033[101m   \033[0m \033[101m   \033[0m  \033[101m   \033[0m      \033[101m   \033[0m  \033[101m   \033[0m          \033[92m/  \033[91m|  _ \\\033[0m  \033[93m__\033[0m   \033[92m\\\033[0m")
-        print("\033[101m                \033[0m  \033[101m   \033[0m   \033[101m   \033[0m \033[101m        \033[0m \033[101m       \033[0m         \033[92m;\033[0m r \033[91m| |_) /\033[0m\033[93m/ o\\\033[0m t \033[92m;\033[0m")
+        print("\033[101m                \033[0m  \033[101m   \033[0m  \033[101m   \033[0m \033[101m        \033[0m \033[101m       \033[0m          \033[92m;\033[0m r \033[91m| |_) /\033[0m\033[93m/ o\\\033[0m t \033[92m;\033[0m")
         print("                                                     \033[92m|\033[0m e \033[91m|  _ <\033[0m \033[93m\\__/\033[0m e \033[92m|\033[0m")
         print("RedDDoS Tool is an open source tool for              \033[92m;\033[0m d \033[91m|_| \\ \\\033[0m \033[93m<|\033[0m  a \033[92m;\033[0m")
         print("penetration. You can test networks/servers/any        \033[92m\\       \033[91m\\/\033[0m \033[93m<|\033[0m  m\033[92m/\033[0m")
@@ -63,9 +63,10 @@ while True:
         print("                                                         \033[92m'-._____.-'\033[0m")
         print("Author of the program is not responsible for")
         print("it's usage, everybody MUST use it ONLY in         member-id: 'rst-00000002'")
-        print("legit cases.")
+        print("legit cases. For more information visit")
+        print("project's site.")
         
-        goon = input("\n\n\n\n\n\n\n\n\nPress Enter to continue.")
+        goon = input("\n\n\n\n\n\n\n\nPress Enter to continue.")
 
         if uname == "Windows":
             cmd = 'cls'
