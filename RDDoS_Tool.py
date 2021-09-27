@@ -36,7 +36,7 @@ while True:
     print("       Github: https://github.com/Red-company/RDDoS_Tool")
     print('                   For legal purposes only')
     print("\033[92;1m")
-    print("1. Website Domain\n2. IP Addresse\n3. About\n4. Exit")
+    print("1. Website Domain\n2. IP Address\n3. About\n4. Exit")
     print('\033[0m')
 
     opt = str(input("\n> "))
