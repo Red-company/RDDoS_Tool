@@ -96,7 +96,7 @@ try:
         sock.sendto(bytes, (ip, port))
         sent += 1
         port += 1
-        print("\033[32;1mSent %s packet to %s throught port:%s"%(sent, ip, port))
+        print("\033[32;1mSent %s packets to %s through port:%s"%(sent, ip, port))
         if port == 65534:
             port = 1
         elif port == 1900:
