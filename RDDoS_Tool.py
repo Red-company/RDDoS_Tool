@@ -63,10 +63,10 @@ while True:
         print("                                                         \033[92m'-._____.-'\033[0m")
         print("Author of the program is not responsible for")
         print("it's usage, everybody MUST use it ONLY in         member-id: 'rst-00000002'")
-        print("legit cases. For more information visit")
-        print("project's site.")
+        print("legit cases.")
+        print("\nFor more information visit project's site.")
         
-        goon = input("\n\n\n\n\n\n\n\nPress Enter to continue.")
+        goon = input("\n\n\n\n\n\n\nPress Enter to continue.")
 
         if uname == "Windows":
             cmd = 'cls'
