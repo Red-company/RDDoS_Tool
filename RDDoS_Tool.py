@@ -6,7 +6,7 @@ import random
 import socket
 import pyfiglet
 
-version = "1.1"
+version = "1.2"
 
 
 #platform info
