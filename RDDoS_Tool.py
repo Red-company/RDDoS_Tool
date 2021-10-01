@@ -42,7 +42,7 @@ while True:
     opt = str(input("\n> "))
 
     if opt == '1':
-        domain = str(input("Enter the website's domain:"))
+        domain = str(input("Domain:"))
         ip = socket.gethostbyname(domain)
         break
 
