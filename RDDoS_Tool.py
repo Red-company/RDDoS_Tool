@@ -67,11 +67,6 @@ while True:
         print("\nFor more information visit project's site.")
         
         goon = input("\n\n\n\n\n\n\nPress Enter to continue.")
-
-        if uname == "Windows":
-            cmd_clear = 'cls'
-        else:
-            cmd_clear = 'clear'
         os.system(cmd_clear)
 
     elif opt == '4':
