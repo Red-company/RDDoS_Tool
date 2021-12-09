@@ -1,4 +1,4 @@
-# Red DDoS Tool (توزيع ريد لأداة رفض الخدمة) ![](https://img.shields.io/apm/l/vim-mode) ![](https://img.shields.io/github/stars/Red-company/RDDoS_Tool?style=social)
+# 🔫 Red DDoS Tool (توزيع ريد لأداة رفض الخدمة) ![](https://img.shields.io/apm/l/vim-mode) ![](https://img.shields.io/github/stars/Red-company/RDDoS_Tool?style=social)
 
 ![plot](./Screenshots/RDDoS_main.png)
 
