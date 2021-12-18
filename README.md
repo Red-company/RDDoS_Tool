@@ -3,18 +3,18 @@
 ![plot](./Screenshots/RDDoS_main.png)
 
 ## What is RedDDoS Tool?
- RedDDoS Tool is a tool for penetration. You can test networks/servers/any other devices with it.
+ _RedDDoS Tool_ is a tool for penetration. You can test networks/servers/any other devices with it.
 
 ## How it Works? 
- It sends continuous packets to the target. This attack is known as DDoS attack.
+ It sends continuous packets to the target. This attack is known as _DDoS attack_.
 
 ## What is DDoS Attack?
-  <p>In a Distributed Denial-of-Service attack (DDoS attack), the incoming traffic flooding the victim originates. This effectively makes it impossible to connect to an other device.</p>
+ In a _Distributed Denial-of-Service_ attack (_DDoS attack_), the incoming traffic flooding the victim originates. This effectively makes it impossible to connect to an other device.
 
 ## Supported Devices:
- This program is supported in all operating system like Linux, Windows and MacOs. The Code is written in python3, so Dont worry it works well without any bugs.
+ This program is supported in all operating system like _Linux_, _Windows_ and _MacOs_. The Code is written in _python3_, so Don't worry it works well without any bugs.
 
-## Installing (Windows/Linux/MacOs/Termux):
+## Installing (_Windows/Linux/MacOs/Termux_):
 ```
 apt-get update -y
 apt-get install git
