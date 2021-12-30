@@ -3,6 +3,10 @@
 ![plot](./Screenshots/RDDoS_main.png)
 
 ## What is RedDDoS Tool?
+```diff
+! This is the best tool for DDoS attacks on github.
+```
+
  _RedDDoS Tool_ is a tool for penetration. You can test networks/servers/any other devices with it.
 
 ## How it Works? 
@@ -45,6 +49,10 @@ pip install pyfiglet
 ![plot](./Screenshots/RDDoS_preparing.png)
 
 ![plot](./Screenshots/RDDoS_process.png)
+
+## Disclaimer
+
+This tool must be used in educational purposes only. Your decisions are not my responsibility.
 
 ##
 All material in this repository is in the public domain.
