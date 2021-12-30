@@ -52,7 +52,7 @@ pip install pyfiglet
 
 ## Disclaimer
 
-This tool must be used in educational purposes only. Your decisions are not my responsibility.
+This tool must be used in educational purposes only. Your decisions are not our responsibility.
 
 ##
 All material in this repository is in the public domain.
