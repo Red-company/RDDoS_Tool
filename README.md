@@ -7,7 +7,7 @@
 ! This is the best tool for DDoS attacks on github.
 ```
 
- _RedDDoS Tool_ is a tool for penetration. You can test networks/servers/any other devices with it.
+ _RedDDoS Tool_ is a tool for DDoS attacks. You can test networks/servers/any other devices with it.
 
 ## How it Works? 
  It sends continuous packets to the target. This attack is known as _DDoS attack_.
