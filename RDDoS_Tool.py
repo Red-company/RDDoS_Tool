@@ -21,9 +21,8 @@ version = "1.2"
 
 # Platform info
 uname=system()
-
 if uname == "Windows":
-    cmd_clear_clear = 'cls'
+    cmd_clear = 'cls'
 else:
     cmd_clear = 'clear'
 
